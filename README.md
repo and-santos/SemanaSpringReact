@@ -109,3 +109,42 @@ sudo apt-get install maven
 ```
 mvn -v
 ```
+
+### Spring Tools Suit
+
+- Google: STS
+- Baixar
+- Descompactar (exemplo: /home/user/apps)
+- Iniciar STS
+  - selecione um workspace (ex: /home/user/Workspaces/ws-sts)
+- Liberar permissão na pasta do workspace:
+
+```
+sudo chmod -R ugo+rw /home/user/Workspaces/ws-sts
+```
+
+### Postman
+
+- instalar com snap:
+
+```
+snap install postman
+```
+
+### Postgreesql
+
+```
+https://www.postgresql.org/download/linux/ubuntu/
+```
+
+### pgAdmin
+
+```
+https://www.pgadmin.org/download/pgadmin-4-apt/
+```
+
+Heroku CLI
+
+```
+https://devcenter.heroku.com/articles/heroku-cli
+```
